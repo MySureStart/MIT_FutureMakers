@@ -1,10 +1,10 @@
-# Classification Loss Functions
+# Optimization
 
 ## Topics covered in today's module
-* Kullback Leibler Divergence Loss
-* Binary Cross-Entropy
-* Categorical Cross-Entropy
-* Sparse Categorical Cross-Entropy
+* Gradient Descent
+* Stochastic Gradient Descent
+* Batch gradient Descent
+* Hyperparameter Tuning
 
 ## Main takeaways from doing today's assignment
 <To be filled>
