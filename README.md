@@ -14,8 +14,9 @@ The modules you will encounter in Phase 1 are laid out in the following grid. Th
 
 | [Module 00/1](./Module_00_PreProgram_Python_Review_Fundamentals_I)  | [Module 00/2](./Module_00_PreProgram_Python_Review_Fundamentals_II)  | [Module 1](./Module_01_Python_Review_NumPy)  | [Module 2](./Module_02_Python_Review_Pandas)  | [Module 3](./Module_03_Machine_Learning)  |
 |-----------|-----------|-----------|-----------|-----------|
-| [__Module 4__](./Module_04_Deep_Learning_and_TensorFlow) | [__Module 5__](./Module_05_Artificial_Neural_Networks)  | [__Module 6__](./Module_06_Convolutional_Neural_Network)  | [__Module 7__](./Module_07_Regression_Loss_Functions)  | [__Module 8__](./Module_08_Classfication_Loss_Functions) | [__Module 9__](./Module_9_Introduction_to_LLMs) | [__Module 10__](./Module_10_Optimization) | [__Module 11__](./Module_11_Activation_Functions) | [__Module 12__](./Module_12_Overfitting_and_Underfitting) | [__Module 13__](./Module_13_Regularization) | [__Module 14__](./Module_14_Ethics_and_Bias) |
-| [__Bonus 1__](./Module_15_Autoencoders) | [__Bonus 2__](./Module_16_Computer_Vision_and_GANs) | [__Bonus 3__](./Module_17_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase) | | 
+| [__Module 4__](./Module_04_Deep_Learning_and_TensorFlow) | [__Module 5__](./Module_05_Artificial_Neural_Networks)  | [__Module 6__](./Module_06_Convolutional_Neural_Network)  | [__Module 7__](./Module_07_Regression_Loss_Functions)  | [__Module 8__](./Module_08_Classfication_Loss_Functions) |
+[__Module 9__](./Module_9_Introduction_to_LLMs) | [__Module 10__](./Module_10_Optimization) | [__Module 11__](./Module_11_Activation_Functions) | [__Module 12__](./Module_12_Overfitting_and_Underfitting) | [__Module 13__](./Module_13_Regularization) | 
+[__Module 14__](./Module_14_Ethics_and_Bias) | [__Bonus 1__](./Module_15_Autoencoders) | [__Bonus 2__](./Module_16_Computer_Vision_and_GANs) | [__Bonus 3__](./Module_17_Style_Transfer) | [__Phase 2__](https://github.com/MySureStart/SureStart_Summer_2023/blob/main/README.md#program-phase-2-the-tech-innovation-phase) | | 
 
 ## Program Phase 1: The AI Tech-Skills Training Phase
 
