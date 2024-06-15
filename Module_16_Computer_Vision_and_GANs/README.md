@@ -16,6 +16,6 @@
 
 2. If you answered "yes" to Question #1, which part of the answers are written by you, and which part of the answers are written by an AI tool? 
 
-3. If you answered "yes" to Question #1, after using the AI tool to gain a better understanding of the material in this notebook, summerize your learnings here.
+3. If you answered "yes" to Question #1, after using the AI tool to gain a better understanding of the material in this notebook, summarize your learnings here.
 
 4. Did you use any other resources besides AI tools?
